@@ -1,7 +1,7 @@
 body{
   color:#40514E;
   margin:0;
-  text-align: center;
+  text-align:center;
   font-family: 'Merriweather',serif;
 }
 h1{
@@ -53,7 +53,7 @@ hr{
 }
 .bottom-container{
   padding:50px 0 20px;
-  background-color: #66BFBF;
+  background-color:#66BFBF;
 }
 .top-cloud{
   position:relative;
